@@ -1,0 +1,14 @@
+Titulo: aaa
+Director: aa
+Escritor: aa
+Genero: Suspenso
+Duracion: 2 H
+Calificacion: **
+Titulo: aaa
+Titulo: Kevin
+Director: Yaelhis
+Escritor: aaa
+Genero: Suspenso
+Duracion: 2 H
+Calificacion: **
+Titulo: sss
